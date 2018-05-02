@@ -1,0 +1,5 @@
+ 2018/04/20 15:48:45 
+CFXDIImpFluent::showVariableWarning - Some variables written by versions of Fluent earlier than 18.0 may show differences when displayed in CFD-Post when compared to Fluent. The following variables may show differences:
+Eddy Viscosity
+Pressure
+This warning can be disabled for further file loads by turning off 'Show warning for incompatible variables in old files' under Edit > Options > CFD-Post > Files.
